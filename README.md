@@ -1,2 +1,12 @@
-# Hybrid-V2X
-V2X-based Connected Platform for Responding to External Environments such as Bad Weather
+# V2X-based Connected Platform
+![Figure1](https://user-images.githubusercontent.com/19532031/103326830-734de780-4a95-11eb-9b5e-d4fdfb83394c.jpg)
+
+본 기술은 악천후 등 외부환경에 대응 가능한 차량사물통신(V2X, Vehicle to Everything communication) 기반 커넥티드 플랫폼 기술에 대한 연구 및 개발을 목표로 합니다. 
+
+차량사물통신(V2X)은 자동차와 모든 것을 연결하는 기술로써 자동차와 도로 환경에 있는 다양한 요소 간 소통을 가능하게 해 자율주행차와 차세대 지능형교통체계 핵심기술로 꼽힙니다. 주로 전방 교통 상황이나 차량 접근을 알리고, 신호등이나 속도제한 구간 등 교통 인프라와 소통하거나 주변 보행자 정보를 지원하는 데에 활용됩니다. 
+
+본 기술의 주요 내용으로는 화이트박스 기반의 분산형 XAI 대응 데이터 집중장치(DCU), 차량-인프라 센서통합을 통한 XAI-융합인지 기능, AI대응 커넥티드 서비스를 지원하는 하이브리드-V2X 통신 플랫폼, 드라이빙 시뮬레이터 하드웨어 인 더 루프(HILS, Hardware-in-the-Loop) 연동을 통한 악천후 주행 시나리오 검증 등이 있습니다. 
+
+에티포스 연구팀의 Hybrid-V2X 통신 플랫폼, 국민대학교 연구팀의 고정밀 측위 기술, 지스트 연구팀의 분산형 XAI-DCU 프로토타입, 테너지소프트 연구팀의 드라이빙 시뮬레이터 하드웨어인더루프(HILS) 연동 기술에 관한 연구 및 개발을 진행하며, 연구 기간 동안에 주기적인 공개 시연을 진행할 계획입니다.
+
+CI/CD 개발방법론 기반의 프로젝트 개발 프로세스는 이곳에서 확인할 수 있습니다.
